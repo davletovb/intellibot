@@ -18,9 +18,30 @@ Intellibot can generate dynamic and context-aware responses via audio, text, and
 
 ## Getting Started
 
-Clone the Repository: Start by cloning this repository to your local machine.  
-Install Dependencies: Run pip install -r requirements.txt to install the required Python dependencies.  
-Run the Bot: Execute python telegram_bot.py to start the bot.  
+* Clone the Repository:
+```
+git clone https://github.com/davletovb/intellibot.git
+```
+
+* Install Dependencies: 
+```
+pip install -r requirements.txt
+```
+
+* Set environment variables:
+```
+export TELEGRAM_BOT_TOKEN="TELEGRAM_BOT_TOKEN"
+export OPENAI_API_KEY="OPENAI_API_KEY"
+export GOOGLE_API_KEY="GOOGLE_API_KEY"
+export GOOGLE_CSE_ID="GOOGLE_CSE_ID"
+export WOLFRAM_ALPHA_APPID="WOLFRAM_ALPHA_APPID"
+export ELEVEN_API_KEY="ELEVEN_API_KEY"
+```
+
+* Run the Bot:
+```
+ python telegram_bot.py 
+```
 
 ## Future Plans
 
