@@ -1,6 +1,6 @@
 # Intellibot: Your Intelligent Chat Companion
 
-![logo](https://github.com/davletovb/intellibot/assets/43503037/c9412b45-4361-4d07-904e-2d329d96388e)
+![logo](https://github.com/davletovb/intellibot/assets/43503037/7f5a1d6d-a002-4f70-8b55-24ad11854014)
 
 Intellibot is an intelligent chatbot designed to provide engaging and meaningful conversations. Built with the power of advanced machine learning algorithms, Intellibot is capable of understanding and responding to a wide range of inputs, making your chat experience more interactive and enjoyable.
 
