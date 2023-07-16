@@ -22,9 +22,20 @@ Clone the Repository: Start by cloning this repository to your local machine.
 Install Dependencies: Run pip install -r requirements.txt to install the required Python dependencies.  
 Run the Bot: Execute python telegram_bot.py to start the bot.  
 
+## Future Plans
+
+I am constantly working to improve Intellibot and expand its capabilities. Here are some of the enhancements I have planned for the future:
+
+* Integration with More Platforms: In addition to Telegram, I am planning to integrate Intellibot with other popular messaging platforms to make it more accessible. Currently testing Whatsapp.  
+* Improved AI Capabilities: I aim to continuously improve its capabilities, making it more intelligent and capable of understanding complex queries.  
+* Customizable Personality: I plan to add features that allow users to customize the personality of Intellibot, making the chat experience more personalized and enjoyable.  
+* Connect to more sources, such as Twitter, LinkedIn, Reddit, and blogs. Users should be able to give a list of accounts and blogs to get summaries.  
+
+Stay tuned for these exciting updates!
+
 ## Contribute
 
-We welcome contributions from the community. Feel free to open an issue or submit a pull request!
+I welcome contributions from the community. Feel free to open an issue or submit a pull request!
 
 ## License
 
